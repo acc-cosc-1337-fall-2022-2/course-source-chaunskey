@@ -1,9 +1,9 @@
 ﻿//write include statements
 #include <iostream>
-
+#include <data_types.h>
 
 //write namespace using statement for cout
-int multiply_numbers(int num);
+//int multiply_numbers(int num);
 
 using namespace std;
 
