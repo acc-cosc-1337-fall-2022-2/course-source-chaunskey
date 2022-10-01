@@ -1,6 +1,5 @@
 //write include statements
 #include <iostream>
-#include <string>
 #include <decisions.h>
 
 int main() 
