@@ -1,5 +1,5 @@
 //write include statements
-
+#include <dna.h>
 //write using statements
 
 
@@ -12,5 +12,6 @@ user enters a y or Y.
 */
 int main() 
 {
+    menu();
 	return 0;
 }
